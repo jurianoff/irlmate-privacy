@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>IRLMate – Child Safety Standards</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: sans-serif;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      background: #f9f9f9;
+      color: #333;
+    }
+    h1, h2 {
+      color: #0e75c5;
+    }
+  </style>
+</head>
+<body>
+  <h1 id="safety">IRLMate – Child Safety Standards</h1>
+
+  <p><strong>Last updated:</strong> May 12, 2025</p>
+
+  <p>IRLMate is an app intended for users aged 18 and over. It is not designed for children and does not provide content specifically targeted at minors.</p>
+
+  <h2>Protection against child exploitation</h2>
+  <p>IRLMate complies with Google's policies and international legal standards related to the safety of minors. We do not allow any content that promotes or depicts child sexual abuse or exploitation. Any such content will be immediately removed and reported to the appropriate authorities.</p>
+
+  <h2>Reporting abuse</h2>
+  <p>If you become aware of any potential abuse, illegal activity, or policy violations involving children related to IRLMate, please contact us directly at:</p>
+  <p><strong>Email:</strong> jurianoff@gmail.com</p>
+
+  <h2>Compliance statement</h2>
+  <p>IRLMate adheres to all applicable laws and regulations related to child safety, including the requirement to act promptly upon any reports of harmful behavior or content involving minors.</p>
+
+  <h2>Contact for policy enforcement</h2>
+  <p>We have designated the above email address as the contact for responding to inquiries from regulators, Google, and enforcement authorities regarding our compliance with child safety requirements.</p>
+</body>
+</html>
